@@ -1,0 +1,65 @@
+* {
+    font-family: sans-serif;
+    margin: auto;
+    margin-bottom: 0;
+    padding-top: 0;
+}
+
+body {
+    width: 100%;
+    word-spacing: normal;
+    line-height: 150%;
+    background: linear-gradient(to right,bisque, #fda4af);
+    background-size: 100% 200%;
+}
+
+.intro {
+    margin-left: 15px;
+    margin: 0;
+}
+
+.main-heading {
+    font-weight: 500;
+    font-family: sans-serif;
+    text-align: left;
+    margin-left: 20px;
+    padding-bottom: 5px;
+    padding-top: 25px;
+}
+
+.sub-heading {
+    text-align: left;
+    font-family: serif;
+    padding-left: 70px;
+    padding-bottom: 0;
+    padding-top: 0;
+}
+
+.content {
+    margin-left: 15px;
+}
+
+.title-heading {
+    font-weight: 100;
+    font-style: inherit;
+    margin-left: 40px;
+}
+
+.content-heading {
+    font-weight: 100;
+    font-style: inherit;
+    margin-left: 25px;
+}
+
+.ojt-work,
+.port-web,
+.future-comms {
+    font-style: inherit;
+    margin-left: 40px;
+}
+
+.ojt-descrp,
+.port-descrp,
+.future-descrp {
+    margin-left: 70px;
+}

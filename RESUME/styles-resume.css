@@ -1,0 +1,34 @@
+@page{
+    size: portrait;
+    margin: 0;
+}
+
+body {
+    background: linear-gradient(to right, bisque, #fda4af);
+    background-size: 100% 200%;
+    padding-left: 35px;
+    padding: 0%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 1cm;
+    margin-bottom: 5cm;
+    margin-left: 5cm;
+    margin-right: 5cm;
+}
+
+img{
+    margin-bottom: -12%;
+    margin-left: 83%;
+    width: 170px;
+    height: 140px;
+    border: 6px double black;
+}
+
+.resume-intro{
+    border-bottom: 5px double black;
+}
+.resume-contact, .resume-educ, .resume-courses, .resume-skills{
+    padding-top: 0;
+    margin-top: 0;
+    padding-bottom: 20px;
+    border-bottom: 3px solid black;
+}
